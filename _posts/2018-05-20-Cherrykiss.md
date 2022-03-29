@@ -3,6 +3,8 @@ title: Cherrykiss -fin-
 date: 2018-05-20 13:14:00
 categories:
 - 约铠
+tags:
+- 双性
 ---
 
     绝影神枪×龙域领主/双性
