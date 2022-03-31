@@ -84,7 +84,7 @@ keywords: "SavePoint。"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss:false
 
 # Specify the date when the site was setup
 #since: 2015
@@ -217,6 +217,7 @@ font:
 social:
 FC2: http://kain0718.blog.fc2blog.us/
 LOFTER: https://lovex6.lofter.com/
+NekoBOX: https://box.n3ko.co/_/Shkkk
   #LinkLabel: Link
 
 
@@ -226,7 +227,7 @@ LOFTER: https://lovex6.lofter.com/
 #   Key is the name of the item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an globe mask icon presenting up means that the item has no mapping icon.
 social_icons:
-  enable: true
+  enable: false
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
