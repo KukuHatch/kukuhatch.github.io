@@ -218,6 +218,8 @@ social:
 FC2: http://kain0718.blog.fc2blog.us/
 LOFTER: https://lovex6.lofter.com/
 NekoBOX: https://box.n3ko.co/_/Shkkk
+AFD: https://afdian.net/@yanku
+
   #LinkLabel: Link
 
 
@@ -230,9 +232,9 @@ social_icons:
   enable: false
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  #GitHub: github
+  #Twitter: twitter
+  #Weibo: weibo
 
 
 # Sidebar Avatar
