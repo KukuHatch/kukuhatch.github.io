@@ -19,16 +19,16 @@ baseurl:
 permalink: pretty
 
 # Pagination
-paginate: 5
+paginate: 10
 #paginate_path: "/page:num/"
 #archive:
-  #paginate: 5
+  #paginate: 10
   #paginate_path: "/page:num/"
 #category:
-  #paginate: 5
+  #paginate: 10
   #paginate_path: "/page:num/"
 #tag:
-  #paginate: 5
+  #paginate: 10
   #paginate_path: "/page:num/"
 
 # Handling Reading
@@ -290,8 +290,8 @@ sidebar:
 #links_title: Links
 #links_layout: block
 #links_layout: inline
-links:
-Title: http://example.com/
+#links:
+#Title: http://example.com/
 
 
 # ---------------------------------------------------------------
