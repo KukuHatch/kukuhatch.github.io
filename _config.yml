@@ -214,13 +214,8 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-social:
-  FC2: http://kain0718.blog.fc2blog.us/
-  LOFTER: https://lovex6.lofter.com/
-  NekoBOX: https://box.n3ko.co/_/Shkkk
-  AFD: https://afdian.net/@yanku
-
-  #LinkLabel: Link
+#social:
+#LinkLabel: Link
 
 
 # Social Links Icons
@@ -287,12 +282,14 @@ sidebar:
 
 
 # Blog rolls
-#links_title: Links
+links_title: Links
 #links_layout: block
 #links_layout: inline
-#links:
-#Title: http://example.com/
-
+links:
+  FC2: http://kain0718.blog.fc2blog.us/
+  LOFTER: https://lovex6.lofter.com/
+  NekoBOX: https://box.n3ko.co/_/Shkkk
+  AFD: https://afdian.net/@yanku
 
 # ---------------------------------------------------------------
 # Post Settings
